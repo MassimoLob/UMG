@@ -1,0 +1,8 @@
+Technical Deficit backlog
+
+- Add an xml App.Config file to better manage test parameters
+- Add multiple browser support than can also be managed from the app.config xml file
+- Add reporting like extentreports which has good compatability with specflow
+- Add better error handling and screenshot on error capability for debugging
+- Parametrize the feature file and make the values dynamic and expandable via scenario outlines/examples
+- Improve structure by moving files into folders and even separating framework and test files into separate sub-projects
